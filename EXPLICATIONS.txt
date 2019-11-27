@@ -1,0 +1,52 @@
+AVANT TOUTES CHOSES J'AI PRIS CET EXERCICE COMME UN EXERCICE DE MÉTHODOLOGIE JE N'AI PAS PRIORISÉ L'ASPECT ESTHÉTIQUE
+DE 1 CE NE SONT QUE DES BLOCS DE 2 JE ME FOCALISE SUR LA MÉTHODO..
+VOTRE SÉANCE REPREND JUSTE APRES CE COMMENTAIRE BEAUCOUP TROP LONG.
+
+..............................................................................................................................................................................................................................encore.....................................................................................................................................................................................................................................................bientot.......................................................................................................................................................................................pd
+
+j'ai glissé un easter egg à la fin de cette ligne (voir nbr de cols);
+
+
+
+J'ai tout d'abord fait mes installations de bases : 
+- Création de dossier static avec /img + node_modules + sass;
+- SASS , JQUERY , BOOTSRAP;
+- Git init + git ignore.
+
+Get Started : 
+
+I : First part |
+J'ai tout d'abord bien décomposer l'intégration en posant les rows et les cols à plat en premier lieux pour le header.
+Une fois fait je me suis occupé du responsive.
+I : END
+
+... désolé Yann est passé du coup il m'as appris à faire un jolie dossier bien jolie et bien propre, seul problème..
+on y as passer 20 min au moins.
+
+Une fois ceci fait j'ai eu les clés en main et les bons conseil pour intégrer mon aside et mon main.
+
+II : Second part | 
+Bon j'ai pas trop écouté avant de faire mon aside j'ai achever la première partie meme méthodo que pour le header.
+II : END
+
+III : L'ASIDE !!! 
+Grace aux bons conseils de Yann jeune padawan que je suis, j'ai pu intégrer mon aside rien de bien difficile une fois expliqué
+III : END
+
+IV : Third part |
+Cette partie la pas de difficulté ni de prise de recul j'ai commancé directement à taper mes lignes de codes
+IV : END
+
+V : Four part |
+Comme un futur jedi que je suis j'ai foncer tete baissée dans la 4ième partie et j'ai trouver que c'était la plus simple apres tout ca 
+V : END
+
+VI : Partie numéro 6 (c'est dégueux d'un coup) |
+Je suis rentré dans l'étoile noire j'ai botté le cul à Dark Vador et toutes sa famille et je ressort tranquille avec la tete de leur chef.
+VI : END
+
+VII : La partie 7 parce que je viens de me rendre compte qu'avec toutes ces réf à Star Wars je viens de faire sept parties comme si
+les planètes étaient alignées.
+
+CLAP CLAP merci.
+
